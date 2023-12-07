@@ -1,17 +1,10 @@
-<%--
-  Created by IntelliJ IDEA.
-  User: DELL
-  Date: 13/11/2023
-  Time: 16:43
-  To change this template use File | Settings | File Templates.
---%>
-<!DOCTYPE>
-<%@ page contentType="text/html;charset=UTF-8" language="java" %>
-<html xml:lang="fr">
+<!DOCTYPE html>
+<html lang="en" xml:lang="en">
 <head>
-    <title>Welcome</title>
+    <title>Title</title>
+    <meta content="text/html; charset=utf-8" />
 </head>
 <body>
-    <p>SUCCESS</p>
+<p>SUCCESS  </p>
 </body>
 </html>
